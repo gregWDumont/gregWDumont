@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building the cybersecurity market intelligence observatory of the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/) and I occasionally lend a hand in translating content for [MDN Web Docs](https://developer.mozilla.org/).
-- 🌱 I am currently learning web development through the [Free Code Camp certification curriculum](https://www.freecodecamp.org/news/freecodecamp-certifications/) focusing on HTML, CSS, JavaScript and Python. It also includes libraries and frameworks such as Bootstrap, React, or D3.js. You can see my progress and projects by clicking [here](https://github.com/gregWDumont/FreeCodeCamp_certifications).
-- 👯 I’m looking to learn about anything related to computer science.
+- 🔭 I'm currently working on building the cybersecurity market intelligence observatory at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/), and I also help out with translating content for [MDN Web Docs](https://developer.mozilla.org/).
+- 🌱 In my free time, I'm studying web development through the [Free Code Camp certification curriculum](https://www.freecodecamp.org/news/freecodecamp-certifications/). I'm learning HTML, CSS, JavaScript, and Python, as well as libraries and frameworks like Bootstrap, React, and D3.js. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications).
+- 👯 I'm always eager to expand my knowledge of computer science, so if you have any suggestions or want to collaborate on a project, feel free to reach out to me!
 
 <picture>
 	<source
