@@ -18,7 +18,7 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark" alt="gregWDumont's GitHub stats" />
