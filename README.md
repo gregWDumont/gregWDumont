@@ -25,7 +25,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     </td>
     <td>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark" alt="Top Languages" />
-
     </td>
   </tr>
 </table>
