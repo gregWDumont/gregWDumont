@@ -18,9 +18,16 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-![gregWDumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark)
+<table>
+  <tr>
+    <td>
+	<img align="left" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark)" alt="gregWDumont's GitHub stats" />
+    </td>
+    <td>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark" alt="Top Languages" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut-vertical)](https://github.com/gregWDumont/github-readme-stats)
-
+    </td>
+  </tr>
+</table>
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
