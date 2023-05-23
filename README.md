@@ -21,10 +21,10 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <table>
   <tr>
     <td>
-	<img align="left" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark)" alt="gregWDumont's GitHub stats" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark" alt="gregWDumont's GitHub stats" />
     </td>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark" alt="Top Languages" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark" alt="Top Languages" />
 
     </td>
   </tr>
