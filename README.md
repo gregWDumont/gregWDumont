@@ -20,5 +20,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ![gregWDumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut-vertical)](https://github.com/gregWDumont/github-readme-stats)
+
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
