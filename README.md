@@ -17,3 +17,5 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
+![gregWDumont's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=cobalt)
