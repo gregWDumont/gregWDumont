@@ -19,7 +19,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <div align="center">	
-	<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: space-between;">
+	<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 		<img src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark" alt="gregWDumont's GitHub stats" />
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark" alt="Top Languages" />
 	</div>
