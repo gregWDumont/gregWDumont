@@ -18,17 +18,9 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<table class="borderless">
-  <tr>
-    <td>
+<div style="display: flex; flex-wrap: wrap;">
 	<img src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark" alt="gregWDumont's GitHub stats" />
-    </td>
-    <td>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+</div>
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
-<link rel="stylesheet" type="text/css" href="styles.css">
