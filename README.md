@@ -18,11 +18,28 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<div align="center">	
-	<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-		<img src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark" alt="gregWDumont's GitHub stats" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark" alt="Top Languages" />
-	</div>
-</div>
+<picture>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=chartreuse-dark"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=transparent"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=transparent" />
+</picture>
+
+<picture>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=chartreuse-dark"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=transparent"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&theme=transparent" />
+</picture>
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
