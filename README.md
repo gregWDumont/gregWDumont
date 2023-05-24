@@ -24,10 +24,10 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 	  media="(prefers-color-scheme: dark)"
 	/>
 	<source
-	  srcset="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=transparent"
+	  srcset="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=false&count_private=true&theme=transparent"
 	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&theme=transparent" />
+	<img src="https://github-readme-stats.vercel.app/api?username=gregWDumont&show_icons=false&count_private=true&theme=transparent" />
 </picture>
 
 <picture>
