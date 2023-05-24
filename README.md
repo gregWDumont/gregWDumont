@@ -34,7 +34,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <picture>
 	<source
-	  srcset="https://github-readme-stats.vercel-sigma-five.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark"
+	  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark"
 	  media="(prefers-color-scheme: dark)"
 	/>
 	<source
