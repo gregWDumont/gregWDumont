@@ -28,7 +28,7 @@ media="(prefers-color-scheme: dark)"
 srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" style="vertical-align: middle;"/>
 </picture>
 
 <picture>
@@ -40,7 +40,7 @@ media="(prefers-color-scheme: dark)"
 srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" style="vertical-align: middle;"/>
 </picture>
 </div>
 
