@@ -19,26 +19,29 @@ alt="github-snake"
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <div align="center">
-    <table style="border: none;" >
-        <tr>
-            <td>
-                <picture>
-                    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
-                    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" />
-                </picture>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <picture>
-                    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
-                    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-                    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" />
-                </picture>
-            </td>
-        </tr>
-    </table>
+    <div stlye="display: flex;
+      justify-content: center;">
+        <table style="border: none;" >
+            <tr>
+                <td>
+                    <picture>
+                        <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
+                        <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" />
+                    </picture>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <picture>
+                        <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
+                        <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" />
+                    </picture>
+                </td>
+            </tr>
+        </table>
+    </div>
 </div>
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
