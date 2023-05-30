@@ -19,6 +19,7 @@ alt="github-snake"
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <div align="center" justify="center">
+<div style="display: flex; flex-direction: column; align-items: center;">
 <picture>
 <source
 srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=chartreuse-dark"
@@ -28,7 +29,7 @@ media="(prefers-color-scheme: dark)"
 srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" style="vertical-align: middle;"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent"/>
 </picture>
 
 <picture>
@@ -40,8 +41,9 @@ media="(prefers-color-scheme: dark)"
 srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" style="vertical-align: middle;"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent"/>
 </picture>
+</div>
 </div>
 
 _generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
