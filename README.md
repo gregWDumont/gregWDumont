@@ -18,10 +18,10 @@ alt="github-snake"
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<div>
+<div align="center">
     <table>
         <tr>
-            <td align="center">
+            <td>
                 <picture>
                     <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
                     <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -30,7 +30,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
             </td>
         </tr>
         <tr>
-            <td align="center">
+            <td>
                 <picture>
                     <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
                     <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=gregWDumont&show_icons=true&count_private=true&rank_icon=github&theme=transparent" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
