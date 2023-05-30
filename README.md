@@ -18,7 +18,7 @@ alt="github-snake"
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<div align="center">
+<div>
     <table>
         <tr>
             <td align="center">
