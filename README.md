@@ -18,7 +18,7 @@ alt="github-snake"
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<div align="center" style="display: flex;">
+<div align="center" style="display: inline-flex;">
     <div style="flex: 1; border: none;">
         <picture>
             <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gregWDumont&layout=donut&rank_icon=github&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
