@@ -18,7 +18,7 @@ alt="github-snake"
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-<div style="display: flex; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: space-between;">
     <table tyle="border: none;" >
         <tr>
             <td>
