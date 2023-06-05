@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently developing the cybersecurity market intelligence observatory platform (CSMIOP) at National Cybersecurity Competence Center Luxembourg with expertise in Python, SQL, and R from [DataCamp](https://www.datacamp.com).
+- 🔭 I'm currently developing the cybersecurity market intelligence observatory platform (CSMIOP) at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/) with expertise in Python, SQL, and R from [DataCamp](https://www.datacamp.com).
 - 🌱 In my free time, I'm studying web development through the [Free Code Camp certification curriculum](https://www.freecodecamp.org/news/freecodecamp-certifications/). I'm learning HTML, CSS, JavaScript, and Python, as well as libraries and frameworks like Bootstrap, React, and D3.js. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications). I also help out with translating content for [MDN Web Docs](https://developer.mozilla.org/).
 - 👯 I'm always eager to expand my knowledge of computer science, so if you have any suggestions or want to collaborate on a project, feel free to reach out to me!
 
