@@ -3,15 +3,9 @@
 - 🔭 I'm currently developing the CSMIOP (cybersecurity market intelligence observatory platform) at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
 
 <picture>
-<source
-media="(prefers-color-scheme: dark)" srcset="graph_dark.gif"
-/>
-<source
-media="(prefers-color-scheme: light)" srcset="graph_light.gif"
-/>
-<img
-alt="Graph GIF"
-/>
+  <source media="(prefers-color-scheme: dark)" srcset="graph_dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="graph_light.gif" />
+  <img src="graph_light.gif" alt="Graph GIF" width="200px" />
 </picture>
 
 <p align="center" >
