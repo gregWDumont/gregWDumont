@@ -8,9 +8,6 @@
   <img src="graph_light.gif" alt="Graph GIF" width="200px" />
 </picture>
 
-<p align="center" >
-    <img src="graph_light.gif" alt="Graph GIF" width="200px"/>
-</p>
 - 🌱 In my free time, I'm studying web development through the Free Code Camp certification curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications). I also help out with translating content for [MDN Web Docs](https://developer.mozilla.org/).
 <p align="center">
   <img src="sushi-sunbath.gif" alt="Sushi GIF" />
