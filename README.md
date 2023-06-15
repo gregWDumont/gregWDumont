@@ -1,8 +1,21 @@
 ### Hi there 👋
 
 - 🔭 I'm currently developing the CSMIOP (cybersecurity market intelligence observatory platform) at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
+
+<picture>
+<source
+media="(prefers-color-scheme: dark)" srcset="graph_dark.gif"
+/>
+<source
+media="(prefers-color-scheme: light)" srcset="graph_light.gif"
+/>
+<img
+alt="Graph GIF"
+/>
+</picture>
+
 <p align="center" >
-    <img src="graph.gif" alt="Graph GIF" width="200px"/>
+    <img src="graph_light.gif" alt="Graph GIF" width="200px"/>
 </p>
 - 🌱 In my free time, I'm studying web development through the Free Code Camp certification curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications). I also help out with translating content for [MDN Web Docs](https://developer.mozilla.org/).
 <p align="center">
