@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I'm currently developing the CSMIOP (cybersecurity market intelligence observatory platform) at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
+<p align="center" >
+    <img src="graph.gif" alt="Graph GIF" width="200px"/>
+</p>
 - 🌱 In my free time, I'm studying web development through the Free Code Camp certification curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications). I also help out with translating content for [MDN Web Docs](https://developer.mozilla.org/).
-<p align="center" width="200px">
-  <img src="sushi-sunbath.gif" alt="GIF" />
+<p align="center">
+  <img src="sushi-sunbath.gif" alt="Sushi GIF" />
 </p>
 - 👯 I'm always eager to expand my knowledge of computer science, and good sushi places, so if you have any suggestions or want to collaborate on a project, feel free to reach out to me!
 
