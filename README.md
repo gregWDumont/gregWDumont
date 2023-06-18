@@ -12,7 +12,7 @@ alt="github-snake"
 />
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<!--_generated with [Platane/snk](https://github.com/Platane/snk)_-->
 
 - 🔭 I'm currently developing the CSMIOP (cybersecurity market intelligence observatory platform) at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
 - 🌱 In my free time, I'm studying web development through the Free Code Camp certification curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications). I also help out with translating content for [MDN Web Docs](https://developer.mozilla.org/).
@@ -35,4 +35,4 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     </picture>
 </div>
 
-_generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+<!--_generated with [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_-->
