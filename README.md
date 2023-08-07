@@ -4,7 +4,7 @@
 
 - 💼 By day, I'm a market intelligence specialist at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
 - 💻 In my off hours, I'm studying web development and programming via the FreeCodeCamp curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications).
-- 📚 Soon, I'll be diving even deeper into the realm of computer science as a student at [Paris 8 University](https://www.iedparis8.net/?-licence-d-informatique-).
+- 📚 About to dive even deeper into computer science as a student at [Paris 8 University](https://www.iedparis8.net/?-licence-d-informatique-).
 
 <div align="center" style="display: inline-flex;">
     <picture>
