@@ -1,4 +1,10 @@
-### Hi there 👋
+## Welcome to my GitHub profile 👋
+
+### I am exploring the crossroads of tech and psychology, striving to untangle the complexities of the human-machine dynamic before AI's supremacy 👾
+
+- 💼 By day, I'm a market intelligence specialist at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
+- 💻 In my off hours, I'm studying web development and programming via the FreeCodeCamp curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications).
+- 📚 Soon, I'll be diving even deeper into the realm of computer science as a student at [Paris 8 University](https://www.iedparis8.net/?-licence-d-informatique-).
 
 <picture>
 <source
@@ -13,15 +19,6 @@ alt="github-snake"
 </picture>
 
 <!--_generated with [Platane/snk](https://github.com/Platane/snk)_-->
-
-- Tech enthusiast racing to understand my machine before AI takes over
-- 🔭 Day job as a market intelligence specialist for the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
-- 🌱 In my free time, I'm studying web development through the Free Code Camp certification curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications).
-- And soon to be a computer science student.
-
-<p align="center">
-  <img src="sushi-sunbath.gif" alt="Sushi GIF" />
-</p>
 
 <div align="center" style="display: inline-flex;">
     <picture>
