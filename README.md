@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile 👋
 
-### I am exploring the crossroads of tech and psychology, striving to untangle the complexities of the human-machine dynamic before AI's supremacy 👾
+### Tech and psychology enthusiast, I am trying to understand how my computer works before AI takes over 👾
 
 - 💼 By day, I'm a market intelligence specialist at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
 - 💻 In my off hours, I'm studying web development and programming via the FreeCodeCamp curriculum. You can check out my progress and projects [here](https://github.com/gregWDumont/FreeCodeCamp_certifications).
