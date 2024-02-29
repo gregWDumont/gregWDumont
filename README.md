@@ -2,7 +2,7 @@
 
 ### Tech and social sciences enthusiast, I am trying to understand how my computer works before AI takes over 👾
 
-- 💼 By day, I'm a market intelligence specialist at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
+- 💼 By day, I'm a market analyst at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
 - 💻 In my off hours, I am pursuing a computer science degree at Paris 8.
 
 <div align="center" style="display: inline-flex;">
