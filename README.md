@@ -2,8 +2,8 @@
 
 ### Tech and social sciences enthusiast, I am trying to understand how my computer works before AI takes over 👾
 
-- 💼 By day, I'm a market analyst at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/).
-- 💻 In my off hours, I am pursuing a computer science degree at Paris 8.
+- 💼 By day, I'm a market analyst at the [National Cybersecurity Competence Center Luxembourg](https://nc3.lu/) where I delve into market trends and cybersecurity strategies. Additionally, I actively contribute to software/web development and cybersecurity projects.
+- 💻 In my off hours, I'm enhancing my expertise by pursuing a bachelor's degree in Computer Science at Paris 8 University.
 
 <div align="center" style="display: inline-flex;">
     <picture>
